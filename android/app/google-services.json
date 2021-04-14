@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160266786764",
+    "project_id": "scan-text-e8fef",
+    "storage_bucket": "scan-text-e8fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160266786764:android:52ed18b3437cffdc62ef69",
+        "android_client_info": {
+          "package_name": "com.amimas.scan_text_from_image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160266786764-gmhhi2t2r1fii15v4c74gvg81ulc81c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0EZ6FZ_EgNUyYB8FwfKomL9j01pMvkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160266786764-gmhhi2t2r1fii15v4c74gvg81ulc81c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
